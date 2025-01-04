@@ -12,7 +12,9 @@ A lightweight, responsive web application that converts text to speech using the
 - 🔍 Real-time word highlighting
 - 📊 Progress tracking
 
-## Demo
+## Live Demo
+[Click Here!] (https://summitpal3.github.io/text-to-speech-WebApp-V1.1/)
+## Demo Image
 
 ![Text-to-Speech Demo](/images/demo.png)
 
@@ -26,7 +28,7 @@ A lightweight, responsive web application that converts text to speech using the
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/summitpal3/text-to-speech-app.git
+git clone https://github.com/summitpal3/text-to-speech-WebApp-V1.1.git
 ```
 
 2. Navigate to the project directory:
